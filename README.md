@@ -25,4 +25,4 @@ Com o Projeto Fokus, você pode melhorar sua produtividade, manter o equilíbrio
 
 * **Arthur Cavalcante** - *Frontend do projeto* - [@Thurcavalcante](https://github.com/Thurcavalcante)
 
-#### Deploy: [Fokus](https://alura-fokus-nu-six.vercel.app/)
+### 🔗 Deploy: [Fokus](https://alura-fokus-nu-six.vercel.app/)
