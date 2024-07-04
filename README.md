@@ -21,7 +21,7 @@ Com o Projeto Fokus, você pode melhorar sua produtividade, manter o equilíbrio
 
 ### 👷‍♂️ Autores / Colaboradores
 
-* **Luan Alves** - *Instrutor Frontend do projeto* - [@luanalvesdev](https://github.com/luanalvesdev)
+* **Luan Alves** - *Instrutor Frontend do projeto* - [@luan-alvesdev](https://github.com/luan-alvesdev)
 
 * **Arthur Cavalcante** - *Frontend do projeto* - [@Thurcavalcante](https://github.com/Thurcavalcante)
 
